@@ -1,0 +1,3 @@
+[submodule "hrms-backend"]
+	path = hrms-backend
+	url = https://github.com/Sahal2000/hrms-backend
